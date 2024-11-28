@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43620717-f59f-43a2-bc7a-399d3cce14a2" name="Changes" comment="hw1">
+      <change afterPath="$PROJECT_DIR$/src/model/FamilyTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/presenter/CommandHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/presenter/TreePresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/FileOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/FileOperationsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/ConsoleTreeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/InputView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/MessageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/PersonView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TreeView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FamilyTree.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,6 +40,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BagmytEvgenii"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BagmytEvgenii/oopHW.git",
+    "accountId": "9d6fd4a6-25ec-415f-a183-cd615e800519"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -42,6 +69,11 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="presenter" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
